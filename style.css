@@ -1,0 +1,47 @@
+.bgc {
+  background-image: linear-gradient(#1e3b70, #29539b);
+}
+.wlc {
+  padding-top: 250px;
+  padding-left: 100px;
+}
+.wlc h1 {
+  color: rgb(4, 4, 53);
+}
+.btn {
+  background-color: rgba(145, 11, 11, 0.662);
+}
+.btn:hover {
+  background-color: rgba(199, 22, 22, 0.855);
+}
+
+.aimg {
+  width: 100%;
+  height: 400px;
+}
+.aimg2 {
+  width: 100%;
+}
+.ac {
+  color: rgb(4, 4, 53);
+}
+.cardC {
+  background-image: linear-gradient(#1e3b70, #29539b);
+}
+.locationd {
+  padding: 100px;
+  padding-top: 20px;
+}
+.card img {
+  width: 100%;
+  height: 300px;
+}
+.acc {
+  color: rgb(4, 4, 53);
+  padding-top: -10px;
+}
+
+.fevicon {
+  height: 50px;
+  width: 50px;
+}
